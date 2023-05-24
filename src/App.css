@@ -1,0 +1,17 @@
+.titulo-user {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(33, 101, 78);
+}
+
+.contenedor-lista-users {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.lista-users {
+    font-size: 1.4rem;
+    width: 300px;
+}
